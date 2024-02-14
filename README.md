@@ -1,5 +1,7 @@
 W5 DQ-1 is a example of Correlation Vs Causation
+
 W5 DQ-2 is a example of Violation of Linearity Assumption and its Resolution
+
 W8 DQ-1
 Let's consider a dataset Crop Production & Climate Change from Kaggle.
 Exploratory Data Analysis (EDA)
@@ -22,4 +24,4 @@ Analytical Approach in Python
 References:
 
 Kaggle. (2017). Medical Cost Personal Datasets [Data set]. https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-production-and-cli
-
+ W8 DQ-1: Clustering
