@@ -23,4 +23,3 @@ References:
 
 Kaggle. (2017). Medical Cost Personal Datasets [Data set]. https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-production-and-cli
 
-![image](https://github.com/Swathi-Dataanalysis/Linear-regression-model-using-insurance-datas/assets/160053816/65c0fee5-a3c4-461b-93aa-168f8618b286)
